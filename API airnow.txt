@@ -1,0 +1,3 @@
+[{"DateObserved":"2021-12-22 ","HourObserved":3,"LocalTimeZone":"CST",
+"ReportingArea":"Rock Island-Moline","StateCode":"IL","Latitude":41.5148,
+"Longitude":-90.5173,"ParameterName":"PM2.5","AQI":35,"Category":{"Number":1,"Name":"Good"}}]
